@@ -88,10 +88,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 This Privacy Policy complies with:
 - Apple App Store Review Guidelines
-- General Data Protection Regulation (GDPR) where applicable
-- California Consumer Privacy Act (CCPA) where applicable
-- Other applicable privacy laws and regulations
-
 ---
 
 *By using the R-E-D app, you agree to the collection and use of information in accordance with this Privacy Policy.*
